@@ -1,8 +1,9 @@
-
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.data.IData;
 import mods.jei.JEI.removeAndHide as rh;
+
+#modloaded appliedenergistics2
 
 // Removing various channel related items, if you want to play with channels, delete this file.
 
